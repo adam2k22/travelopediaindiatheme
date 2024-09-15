@@ -61,7 +61,7 @@
     min-height: 20px;
   }
   a {
-    text-decoration: none;
+    text-decoration: none!important;
   }
   p {
     font-family: var(--font-jost);

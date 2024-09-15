@@ -1,98 +1,10 @@
 <?php $logoimg=get_header_image() ?>   
-<div class="elementor-element elementor-element-0925a5f e-con-full e-flex e-con e-parent" data-id="0925a5f" data-element_type="container">
-    <div class="elementor-element elementor-element-2884dec elementor-widget elementor-widget-triprex_newsletter" data-id="2884dec" data-element_type="widget" data-widget_type="triprex_newsletter.default">
-      <div class="elementor-widget-container">
-        <div class="banner6-section" style="background-image:linear-gradient(180deg, #202f59 0%, #202f59 100%), url(https://triprex.b-cdn.net/wp-content/uploads/2024/02/home2-newsletter-bg.png)">
-          <img decoding="async" src="https://triprex.b-cdn.net/wp-content/themes/triprex/assets/img/home2/home2-newsletter-vector1.png" alt="vector1" class="vector1">
-          <img decoding="async" src="https://triprex.b-cdn.net/wp-content/themes/triprex/assets/img/home2/home2-newsletter-vector2.png" alt="vector2" class="vector2">
-          <div class="container-fluid">
-            <div class="row g-lg-0 gy-5">
-              <div class="col-lg-3 col-sm-6 d-flex align-items-center justify-content-lg-start justify-content-center order-lg-1 order-2">
-                <div class="single-contact">
-                  <div class="icon">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
-                      <g clip-path="url(#clip0_1381_27)">
-                        <path d="M34.5478 26.1865L29.6634 21.3021C27.919 19.5577 24.9535 20.2555 24.2557 22.5232C23.7324 24.0932 21.988 24.9655 20.418 24.6165C16.9292 23.7443 12.2193 19.2088 11.3471 15.5456C10.8237 13.9755 11.8704 12.2311 13.4404 11.7078C15.7081 11.0101 16.4059 8.04458 14.6615 6.30017L9.7771 1.41582C8.38157 0.194728 6.28828 0.194728 5.06719 1.41582L1.7528 4.7302C-1.56158 8.21902 2.10169 17.4644 10.3004 25.6631C18.4992 33.8619 27.7445 37.6997 31.2334 34.2108L34.5478 30.8964C35.7689 29.5009 35.7689 27.4076 34.5478 26.1865Z"></path>
-                      </g>
-                    </svg>
-                  </div>
-                  <div class="content">
-                    <span>More Inquiry</span>
-                    <a href="tel:990737621432">+990-737 621 432</a>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-6 order-lg-2 order-1">
-                <div class="banner6-content">
-                  <h2>Join The Newsletter</h2>
-                  <p>To receive our best monthly deals </p>
-                  <script>
-                    (function() {
-                      window.mc4wp = window.mc4wp || {
-                        listeners: [],
-                        forms: {
-                          on: function(evt, cb) {
-                            window.mc4wp.listeners.push({
-                              event: evt,
-                              callback: cb
-                            });
-                          }
-                        }
-                      }
-                    })();
-                  </script>
-                  <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-233" method="post" data-id="233" data-name="Newsletter">
-                    <div class="mc4wp-form-fields">
-                      <div class="from-inner">
-                        <input type="email" placeholder="Enter your email address...">
-                        <button type="submit" class="from-arrow">
-                          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="17" viewBox="0 0 18 17">
-                            <path d="M7 1L16 8.5M16 8.5L7 16M16 8.5H0.5" stroke-width="1.5"></path>
-                          </svg>
-                        </button>
-                      </div>
-                    </div>
-                    <label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off">
-                    </label>
-                    <input type="hidden" name="_mc4wp_timestamp" value="1722285505">
-                    <input type="hidden" name="_mc4wp_form_id" value="233">
-                    <input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1">
-                    <div class="mc4wp-response"></div>
-                  </form>
-                </div>
-              </div>
-              <div class="col-lg-3 col-sm-6 d-flex align-items-center justify-content-lg-end justify-content-center order-3">
-                <div class="single-contact green">
-                  <div class="icon">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="36" viewBox="0 0 35 36">
-                      <g clip-path="url(#clip0_1381_80)">
-                        <path d="M12.7608 25.8093V32.573C12.762 32.8029 12.8354 33.0266 12.9707 33.2124C13.106 33.3982 13.2964 33.5368 13.5148 33.6084C13.7332 33.68 13.9686 33.6811 14.1877 33.6115C14.4068 33.5419 14.5984 33.4051 14.7354 33.2205L18.6919 27.8364L12.7608 25.8093ZM34.541 0.327817C34.3767 0.210791 34.1832 0.141497 33.982 0.127599C33.7807 0.113701 33.5795 0.15574 33.4006 0.249067L0.588138 17.3845C0.399345 17.4843 0.24379 17.637 0.140562 17.8239C0.0373342 18.0108 -0.00907488 18.2238 0.00703036 18.4368C0.0231356 18.6497 0.101054 18.8533 0.231224 19.0226C0.361394 19.1919 0.538152 19.3194 0.739805 19.3897L9.86168 22.5076L29.2881 5.89719L14.2556 24.0082L29.5433 29.2334C29.695 29.2844 29.856 29.3016 30.0151 29.2838C30.1741 29.266 30.3274 29.2137 30.4641 29.1305C30.6007 29.0473 30.7176 28.9352 30.8064 28.8021C30.8953 28.669 30.9539 28.5181 30.9783 28.3599L34.9888 1.38073C35.0184 1.18101 34.9923 0.976977 34.9133 0.791164C34.8343 0.605351 34.7055 0.444996 34.541 0.327817Z"></path>
-                      </g>
-                      <defs>
-                        <clipPath id="clip0_1381_80">
-                          <rect width="35" height="35" fill="white" transform="translate(0 0.125)"></rect>
-                        </clipPath>
-                      </defs>
-                    </svg>
-                  </div>
-                  <div class="content">
-                    <span>Send Mail</span>
-                    <a href="mailto:info@example.com">info@example.com</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+
     <footer class="footer-section  th-background-image">
         <div class="container">
             <div class="footer-top">
             <div class="row g-lg-4 gy-5 justify-content-center">
-                <div class="col-lg-3 col-md-6 col-sm-6">
+              <div class="col-lg-5 col-md-6 col-sm-6">
                 <div id="custom_footer_widget-3" class="footer-widget widget_custom_footer_widget">
                     <div class="footer-logo">
                     <a href="<?php get_bloginfo('wpurl'); ?>">
@@ -103,7 +15,7 @@
                     <a href="/tour" class="primary-btn1">Book A Tour</a>
                 </div>
                 </div>
-                <div class="col-lg-2 col-md-6 col-sm-6 d-flex justify-content-lg-center justify-content-sm-start">
+              <div class="col-lg-3 col-md-6 col-sm-6 d-flex justify-content-lg-center justify-content-sm-start">
                 <div id="nav_menu-3" class="footer-widget widget_nav_menu">
                     <div class="widget-title">
                     <h5>Quick Link</h5>
@@ -114,8 +26,8 @@
                         ?>
                     </div>
                 </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 d-flex justify-content-lg-center justify-content-md-start">
+              </div>
+              <div class="col-lg-4 col-md-6 col-sm-6 d-flex justify-content-lg-center justify-content-md-start">
                 <div id="company_info_widget-3" class="footer-widget widget_company_info_widget">
                     <div class="single-contact mb-30">
                     <div class="widget-title">
@@ -126,7 +38,7 @@
                         </svg>
                         <h5>More Inquiry</h5>
                     </div>
-                    <a href="tel:999858624984">+999-858 624 984</a>
+                    <a href="tel:+918527087050">+91 852 708 7050</a>
                     </div>
                     <div class="single-contact mb-35">
                     <div class="widget-title">
@@ -137,7 +49,7 @@
                         </svg>
                         <h5>Send Mail</h5>
                     </div>
-                    <a href="mailto:info@example.com">info@example.com</a>
+                    <a href="mailto:info@travelopediaindia.com">info@travelopediaindia.com</a>
                     </div>
                     <div class="single-contact">
                     <div class="widget-title">
@@ -148,42 +60,10 @@
                         </svg>
                         <h5>Address</h5>
                     </div>
-                    <address>House 168/170, Avenue 01, Mirpur DOHS, Dhaka Bangladesh</address>
+                    <address>Sadh Nagar, Palam Colony, New Delhi -110045</address>
                     </div>
                 </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 d-flex justify-content-lg-end justify-content-sm-end">
-                <div id="block-7" class="footer-widget widget_block">
-                    <div class="widget-title">
-                    <h5>We Are Here</h5>
-                    </div>
-                    <p>Quisque purus augue, facilisis andi neque idont accumsan fringilla massa. Vivamusol id nibhom condimentum.</p>
-                    <div class="payment-partner">
-                    <div class="widget-title">
-                        <h5>Payment Partner</h5>
-                    </div>
-                    <div class="icons">
-                        <ul>
-                        <li>
-                            <img decoding="async" src="https://triprex.b-cdn.net/wp-content/uploads/2024/02/visa-logo.svg" alt="visa-logo">
-                        </li>
-                        <li>
-                            <img decoding="async" src="https://triprex.b-cdn.net/wp-content/uploads/2024/02/stripe-logo.svg" alt="stripe-logo">
-                        </li>
-                        <li>
-                            <img decoding="async" src="https://triprex.b-cdn.net/wp-content/uploads/2024/02/paypal-logo.svg" alt="paypal-logo">
-                        </li>
-                        <li>
-                            <img decoding="async" src="https://triprex.b-cdn.net/wp-content/uploads/2024/02/woo-logo.svg" alt="woo-logo">
-                        </li>
-                        <li>
-                            <img decoding="async" src="https://triprex.b-cdn.net/wp-content/uploads/2024/02/skrill-logo.svg" alt="skrill-logo">
-                        </li>
-                        </ul>
-                    </div>
-                    </div>
-                </div>
-                </div>
+              </div>
             </div>
             </div>
             <div class="footer-bottom">

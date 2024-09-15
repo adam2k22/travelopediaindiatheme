@@ -43,7 +43,7 @@
                       <div class="content">
                         <span>To More Inquiry</span>
                         <h6>
-                          <a href="tel:990737621432">+990-737 621 432</a>
+                          <a href="tel:+918527087050">+91 852 708 7050</a>
                         </h6>
                       </div>
                     </div>
