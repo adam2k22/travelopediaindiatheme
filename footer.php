@@ -12,7 +12,7 @@
                     </a>
                     </div>
                     <h3>Want to Take Tour Packages?</h3>
-                    <a href="/tour" class="primary-btn1">Book A Tour</a>
+                    <a href="/contact" class="primary-btn1">Book A Tour</a>
                 </div>
                 </div>
               <div class="col-lg-3 col-md-6 col-sm-6 d-flex justify-content-lg-center justify-content-sm-start">
@@ -91,17 +91,8 @@
                     </a>
                     </li>
                 </ul>
-                <p>©Copyright 2024 TravelOPedia
-                </p>
                 <div class="footer-right">
-                    <ul>
-                    <li>
-                        <a href="#">Privacy Policy</a>
-                    </li>
-                    <li>
-                        <a href="#">Terms &amp; Condition</a>
-                    </li>
-                    </ul>
+                    <p>©Copyright 2024 TravelOPedia</p>
                 </div>
                 </div>
             </div>

@@ -2,7 +2,7 @@
 //Template Name:gallery
     get_header();
 ?>
-<div class="breadcrumb-section" style="background-image: linear-gradient(270deg, rgba(0, 0, 0, .3), rgba(0, 0, 0, 0.3) 101.02%), url(https://triprex.egenslab.com/wp-content/plugins/triprex-core//inc/theme-options/images/breadcrumb/inner-banner-bg.jpg);">
+<div class="breadcrumb-section" style="background-image: linear-gradient(270deg, rgba(0, 0, 0, .3), rgba(0, 0, 0, 0.3) 101.02%), url(https://travelopediaindia.com/wp-content/uploads/2024/10/pexels-pixabay-38238-scaled.webp);">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 d-flex justify-content-center">
@@ -10,9 +10,10 @@
           <h1> Gallery </h1>
           <ul id="breadcrumb-list" class="breadcrumb-list">
             <li class="breadcrumb-item">
-              <a href="https://triprex.egenslab.com"> Home </a>
+              <a href="/home"> Home </a>
+              <i class="bi bi-arrow-right"></i>
             </li>
-            <li class="active"> Gallery </li>
+            <li class="active" style="padding-left: 0px;">Gallery</li>
           </ul>
         </div>
       </div>
