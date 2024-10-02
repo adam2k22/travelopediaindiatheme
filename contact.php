@@ -92,61 +92,10 @@
                       <p role="status" aria-live="polite" aria-atomic="true"></p>
                       <ul></ul>
                     </div>
-                    <form action="/contact/#wpcf7-f6-p24-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
-                      <div style="display: none;">
-                        <input type="hidden" name="_wpcf7" value="6">
-                        <input type="hidden" name="_wpcf7_version" value="5.9.6">
-                        <input type="hidden" name="_wpcf7_locale" value="en_US">
-                        <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f6-p24-o1">
-                        <input type="hidden" name="_wpcf7_container_post" value="24">
-                        <input type="hidden" name="_wpcf7_posted_data_hash" value="">
-                      </div>
-                      <div class="contact-form-area">
-                        <h3>Reach Us Anytime</h3>
-                        <div>
-                          <div class="row">
-                            <div class="col-lg-12 mb-20">
-                              <div class="form-inner">
-                                <label>Name*</label>
-                                <span class="wpcf7-form-control-wrap" data-name="text-426">
-                                  <input size="40" maxlength="80" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Daniel Scoot" value="" type="text" name="text-426">
-                                </span>
-                              </div>
-                            </div>
-                            <div class="col-lg-6 mb-20">
-                              <div class="form-inner">
-                                <label>Phone*</label>
-                                <span class="wpcf7-form-control-wrap" data-name="number-873">
-                                  <input class="wpcf7-form-control wpcf7-number wpcf7-validates-as-required wpcf7-validates-as-number" aria-required="true" aria-invalid="false" placeholder="Phone Number" value="" type="number" name="number-873">
-                                </span>
-                              </div>
-                            </div>
-                            <div class="col-lg-6 mb-20">
-                              <div class="form-inner">
-                                <label>Email*</label>
-                                <span class="wpcf7-form-control-wrap" data-name="email-124">
-                                  <input size="40" maxlength="80" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email Us...." value="" type="email" name="email-124">
-                                </span>
-                              </div>
-                            </div>
-                            <div class="col-lg-12 mb-30">
-                              <div class="form-inner">
-                                <label>Write Your Massage*</label>
-                                <span class="wpcf7-form-control-wrap" data-name="textarea-499">
-                                  <textarea cols="40" rows="10" maxlength="400" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="What’s on your mind" name="textarea-499"></textarea>
-                                </span>
-                              </div>
-                            </div>
-                            <div class="col-lg-12">
-                              <div class="form-inner">
-                                <button class="primary-btn1 btn-hover" type="submit"> Submit Now </button>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="wpcf7-response-output" aria-hidden="true"></div>
-                    </form>
+                    <div class="contact-form-area">
+                      <h3>Reach Us Anytime</h3>
+                      <?php echo do_shortcode('[contact-form-7 id="b88a37c" title="Contact form 1"]'); ?>
+                    </div>
                   </div>
                 </div>
               </div>
